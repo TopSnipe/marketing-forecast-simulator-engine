@@ -11,7 +11,7 @@ class ManualForecastingService:
     """Provides simple forecasting models."""
 
     @staticmethod
-    def moving_average(data: list[int], window: int = MA_WINDOW) -> float:
+    def moving_average(data: list[int], window: int = MA_WINDOW) -> float:                  # window is the number of months to average over
         if len(data) < window:
             raise ValueError("Not enough data points for moving average.")
         return sum(data[-window:]) / window
@@ -40,6 +40,7 @@ class ManualForecastingService:
     @staticmethod
     def run() -> None:
         """CLI flow for running forecasting models."""
+        
         print("\n=== Manual Demand Forecasting ===")
 
         raw = input("Enter historical demand (3–12 months of historical sales values in 1000s): ").strip()

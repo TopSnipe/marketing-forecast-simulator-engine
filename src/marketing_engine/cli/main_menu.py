@@ -11,12 +11,12 @@ from src.marketing_engine.service.marketing_service import clear_screen
 # ---------------------------------------------------------
 
 def main_menu() -> None:
-    """Main CLI loop for the Marketing Engine."""
+    """Main CLI loop for the Marketing Forecast Simulation Engine."""
     clear_screen()
     
     while True:
         
-        print("\n=== Marketing Engine ===")
+        print("\n=== Marketing Forecast Simulation Engine ===")
         print("1. Trigger Marketing Campaign")
         print("2. Historical Sales Forecasting")
         print("3. Manual Sales Forecasting")
@@ -25,8 +25,8 @@ def main_menu() -> None:
         print("6. Exit")
 
         try:
-            choice = input("Select an option: \n").strip()
-        except KeyboardInterrupt:
+            choice = input("Select an option: ").strip()
+        except KeyboardInterrupt:                                           
             continue
 
         if choice == "1":

@@ -9,6 +9,7 @@ from src.marketing_engine.persistence.restock_repository import RestockRepositor
 
 def trigger_marketing_campaign() -> None:
     """CLI flow: prompt user, run marketing logic, save and display results."""
+    
     print("\n=== Trigger Marketing Campaign ===")
 
     merch_id = input("Enter merch ID: ").strip()
@@ -16,7 +17,7 @@ def trigger_marketing_campaign() -> None:
         print("Merch ID is required.\n")
         return
 
-    demand_input = input(f"Expected demand increase (default {DEFAULT_DEMAND_INCREASE}): ").strip()
+    demand_input = input(f"Expected demand increase (default {DEFAULT_DEMAND_INCREASE}): ").strip()  # DEFAULT_DEMAND_INCREASE is a percentage (set at .20 for 20% in settings.cfg)
 
     if demand_input == "":
         demand_increase = DEFAULT_DEMAND_INCREASE
@@ -51,4 +52,4 @@ def trigger_marketing_campaign() -> None:
     print(f"Item: {result['name']} ({result['merch_id']})")
     print(f"Recommended Quantity: {result['restock_qty']}")
     print(f"Total Cost: ${result['total_cost']}")
-    print("------------------------------\n")
+    print("------------------------------\n\n")

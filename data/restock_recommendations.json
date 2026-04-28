@@ -82,5 +82,19 @@
         "restock_qty": 198,
         "total_cost": 8787.24,
         "demand_increase": 0.6
+    },
+    {
+        "merch_id": "033",
+        "name": "HoleSnipe Logo T-Shirt (L)",
+        "restock_qty": 121,
+        "total_cost": 5369.98,
+        "demand_increase": 0.3
+    },
+    {
+        "merch_id": "033",
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - TSMG Special Blend Medium Roast",
+        "restock_qty": 139,
+        "total_cost": 1937.66,
+        "demand_increase": 0.3
     }
 ]

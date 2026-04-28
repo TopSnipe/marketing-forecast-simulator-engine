@@ -36,7 +36,7 @@ class MarketingService:
 
     
 def clear_screen():
-    """Modern cross-platform screen clear."""
+    """Cross-program screen clear utility."""
+    
     command = 'cls' if os.name == 'nt' else 'clear' 
-    # In a security context, we use a list for subprocess to avoid shell injection
     subprocess.run([command], shell=True)
