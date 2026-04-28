@@ -1,0 +1,52 @@
+Project Submission Details
+
+Please submit the following:
+
+Source Code
+Upload all project files (or provide a GitHub link)
+Documentation File (README or PDF)
+Project description
+Setup/run instructions
+Dependencies
+Contribution details (for groups)
+Demo Video / Report
+Video link (YouTube, Google Drive, etc.) OR written report
+AI Usage Statement (Required)
+Clearly mention if and how AI tools were used
+Submissions without this may receive point deductions
+ 
+
+Grading Rubrics
+
+1. Code Functionality (18 pts)
+
+All core features work as expected
+No major bugs/crashes
+Handles inputs correctly
+2. Code Quality & Organization (12 pts)
+
+Proper modular structure (multiple files)
+Meaningful variable/function names
+Comments and docstrings included
+Error handling implemented
+3. Concepts Coverage (12 pts)
+
+Demonstrates multiple programming concepts
+Appropriate use of data structures
+Logic/design reflects course learning
+4. Documentation (9 pts)
+
+Clear project description
+Setup/run instructions included
+Dependencies listed
+Screenshots/demo link provided
+5. Creativity & Features (6 pts)
+
+Goes beyond basic requirements
+Interesting/unique idea
+Additional features implemented
+6. Presentation (3 pts)
+
+Demo video/report included
+Clear explanation of project
+Challenges & future improvements discussed
