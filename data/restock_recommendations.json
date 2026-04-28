@@ -75,5 +75,12 @@
         "restock_qty": 95,
         "total_cost": 4216.1,
         "demand_increase": 0.2
+    },
+    {
+        "merch_id": "033",
+        "name": "HoleSnipe Logo T-Shirt (L)",
+        "restock_qty": 198,
+        "total_cost": 8787.24,
+        "demand_increase": 0.6
     }
 ]
