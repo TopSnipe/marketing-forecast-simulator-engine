@@ -1,7 +1,7 @@
 [project]
 name = "marketing_engine"
 version = "0.2.0"
-description = "Marketing Campaign Engine – CLI-based restock calculation and demand projection."
+description = "Marketing Forcast Simulation Engine – CLI-based restock calculation and demand projection."
 readme = "README.md"
 requires-python = ">=3.12"
 

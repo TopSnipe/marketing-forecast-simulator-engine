@@ -57,13 +57,13 @@ VET_PARTNER_PRODUCTS = [
 # Seeder Function
 # ---------------------------------------------------------
 
-def seed_merch_catalog(count: int = 100) -> None:
+def seed_merch_catalog(count: int = 100) -> None:                       # default count of 100 merchandise items to seed into the catalog
     """
     Generate a realistic TSMG/HoleSnipe merchandise catalog.
     """
     catalog = {}
 
-    # Build a unified product list with categories
+    # Build unified product list with categories
     product_pool = []
 
     # Coffee
