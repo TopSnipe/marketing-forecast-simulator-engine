@@ -64,6 +64,7 @@ marketing-simulation-engine/
 └── demo_video_link.txt
 
 ```
+
 ---
 
 ## Core Features (v0.3.0)
