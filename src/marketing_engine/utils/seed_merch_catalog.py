@@ -6,6 +6,10 @@ from src.marketing_engine.config import MERCH_CATALOG
 # ---------------------------------------------------------
 # TSMG / HoleSnipe Product Definitions
 # ---------------------------------------------------------
+# HoleSnipe is a conceptual brand developed under TopSnipe Media Group (TSMG), a quasi‑nonprofit
+# operating company. The name is based on my background as a retired Navy hole snipe, using the
+# call sign for merch names. 
+# ---------------------------------------------------------
 
 COFFEE_ROASTS = [
     "HoleSnipe Coffee - Midwatch Dark Roast",
