@@ -1,0 +1,42 @@
+[project]
+name = "marketing_engine"
+version = "0.2.0"
+description = "Marketing Campaign Engine – CLI-based restock calculation and demand projection."
+readme = "README.md"
+requires-python = ">=3.12"
+
+authors = [
+    { name = "Joseph Bevels", email = "n00661116@unf.edu" }
+]
+
+license = { text = "Proprietary" }
+
+keywords = [
+    "marketing",
+    "campaign",
+    "restock",
+    "inventory",
+    "business",
+    "cli",
+    "modular"
+]
+
+dependencies = [
+    # All core functionality uses Python Standard Library only
+]
+
+[project.scripts]
+marketing-engine = "main:main"       
+
+# ====================== Build & Packaging ======================
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["marketing_engine*"]
+namespaces = false
+
+[tool.distutils.egg_info]
+egg_base = "."
+

@@ -1,0 +1,79 @@
+[
+    {
+        "merch_id": "097",
+        "name": "HoleSnipe Trucker Hat",
+        "restock_qty": 394,
+        "total_cost": 11729.38,
+        "demand_increase": 0.5
+    },
+    {
+        "merch_id": "033",
+        "name": "HoleSnipe Logo T-Shirt (L)",
+        "restock_qty": 51,
+        "total_cost": 2263.38,
+        "demand_increase": 0.03
+    },
+    {
+        "merch_id": "093",
+        "name": "RuckUp Leather Wallet (Vet-Owned)",
+        "restock_qty": 103,
+        "total_cost": 4263.17,
+        "demand_increase": 0.35
+    },
+    {
+        "merch_id": "033",
+        "name": "HoleSnipe Logo T-Shirt (L)",
+        "restock_qty": 172,
+        "total_cost": 7633.36,
+        "demand_increase": 0.5
+    },
+    {
+        "merch_id": "033",
+        "name": "HoleSnipe Logo T-Shirt (L)",
+        "restock_qty": 172,
+        "total_cost": 7633.36,
+        "demand_increase": 0.5
+    },
+    {
+        "merch_id": "080",
+        "name": "Get in the Hole! Cap",
+        "restock_qty": 0,
+        "total_cost": 0.0,
+        "demand_increase": 0.3
+    },
+    {
+        "merch_id": "025",
+        "name": "Get in the Hole! T-Shirt (S)",
+        "restock_qty": 35,
+        "total_cost": 1505.35,
+        "demand_increase": 0.4
+    },
+    {
+        "merch_id": "023",
+        "name": "Get in the Hole! T-Shirt (S)",
+        "restock_qty": 306,
+        "total_cost": 14158.62,
+        "demand_increase": 0.3
+    },
+    {
+        "merch_id": "033",
+        "name": "HoleSnipe Logo T-Shirt (L)",
+        "restock_qty": 172,
+        "total_cost": 7633.36,
+        "demand_increase": 0.5
+    },
+    {
+        "merch_id": "033",
+        "name": "HoleSnipe Logo T-Shirt (L)",
+        "restock_qty": 172,
+        "total_cost": 7633.36,
+        "demand_increase": 0.5
+    },
+    {
+        "merch_id": "033",
+        "name": "HoleSnipe Logo T-Shirt (L)",
+        "restock_qty": 95,
+        "total_cost": 4216.1,
+        "demand_increase": 0.2
+    }
+]

@@ -1,0 +1,702 @@
+{
+    "001": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - Reveille Light Roast",
+        "category": "Coffee",
+        "unit_cost": 17.75,
+        "current_stock": 137,
+        "base_demand": 49
+    },
+    "002": {
+        "name": "Get in the Hole! Cap",
+        "category": "Hats",
+        "unit_cost": 16.18,
+        "current_stock": 247,
+        "base_demand": 55
+    },
+    "003": {
+        "name": "HoleSnipe Coffee Mug",
+        "category": "Mugs",
+        "unit_cost": 17.17,
+        "current_stock": 97,
+        "base_demand": 111
+    },
+    "004": {
+        "name": "HoleSnipe Logo Hoodie (XL)",
+        "category": "Apparel",
+        "unit_cost": 34.26,
+        "current_stock": 209,
+        "base_demand": 281
+    },
+    "005": {
+        "name": "Get in the Hole! T-Shirt (L)",
+        "category": "Apparel",
+        "unit_cost": 48.53,
+        "current_stock": 100,
+        "base_demand": 125
+    },
+    "006": {
+        "name": "HoleSnipe Logo T-Shirt (M)",
+        "category": "Apparel",
+        "unit_cost": 43.26,
+        "current_stock": 225,
+        "base_demand": 82
+    },
+    "007": {
+        "name": "TSMG Logo Sticker",
+        "category": "Stickers",
+        "unit_cost": 4.67,
+        "current_stock": 193,
+        "base_demand": 214
+    },
+    "008": {
+        "name": "TSMG Logo Sticker",
+        "category": "Stickers",
+        "unit_cost": 7.63,
+        "current_stock": 24,
+        "base_demand": 111
+    },
+    "009": {
+        "name": "HoleSnipe Logo T-Shirt (S)",
+        "category": "Apparel",
+        "unit_cost": 43.57,
+        "current_stock": 38,
+        "base_demand": 254
+    },
+    "010": {
+        "name": "RuckUp Leather Wallet (Vet-Owned)",
+        "category": "Vet-Partner",
+        "unit_cost": 45.07,
+        "current_stock": 192,
+        "base_demand": 267
+    },
+    "011": {
+        "name": "Get in the Hole! T-Shirt (XL)",
+        "category": "Apparel",
+        "unit_cost": 31.65,
+        "current_stock": 165,
+        "base_demand": 223
+    },
+    "012": {
+        "name": "Get in the Hole! Hoodie (XL)",
+        "category": "Apparel",
+        "unit_cost": 33.84,
+        "current_stock": 64,
+        "base_demand": 145
+    },
+    "013": {
+        "name": "BravoZulu Paracord Bracelet (Vet-Owned)",
+        "category": "Vet-Partner",
+        "unit_cost": 47.9,
+        "current_stock": 133,
+        "base_demand": 279
+    },
+    "014": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - TSMG Special Blend Medium Roast",
+        "category": "Coffee",
+        "unit_cost": 14.05,
+        "current_stock": 178,
+        "base_demand": 295
+    },
+    "015": {
+        "name": "HoleSnipe Logo T-Shirt (S)",
+        "category": "Apparel",
+        "unit_cost": 31.22,
+        "current_stock": 138,
+        "base_demand": 185
+    },
+    "016": {
+        "name": "RuckUp Leather Wallet (Vet-Owned)",
+        "category": "Vet-Partner",
+        "unit_cost": 48.74,
+        "current_stock": 147,
+        "base_demand": 55
+    },
+    "017": {
+        "name": "HoleSnipe Sticker Pack",
+        "category": "Stickers",
+        "unit_cost": 7.52,
+        "current_stock": 190,
+        "base_demand": 202
+    },
+    "018": {
+        "name": "Get in the Hole! T-Shirt (XXL)",
+        "category": "Apparel",
+        "unit_cost": 27.87,
+        "current_stock": 68,
+        "base_demand": 54
+    },
+    "019": {
+        "name": "TSMG Ceramic Mug",
+        "category": "Mugs",
+        "unit_cost": 17.24,
+        "current_stock": 149,
+        "base_demand": 217
+    },
+    "020": {
+        "name": "FireTeam Coffee Thermos (Vet-Owned)",
+        "category": "Vet-Partner",
+        "unit_cost": 55.26,
+        "current_stock": 134,
+        "base_demand": 69
+    },
+    "021": {
+        "name": "Get in the Hole! T-Shirt (M)",
+        "category": "Apparel",
+        "unit_cost": 22.34,
+        "current_stock": 91,
+        "base_demand": 39
+    },
+    "022": {
+        "name": "Get in the Hole! T-Shirt (M)",
+        "category": "Apparel",
+        "unit_cost": 23.47,
+        "current_stock": 184,
+        "base_demand": 111
+    },
+    "023": {
+        "name": "Get in the Hole! T-Shirt (S)",
+        "category": "Apparel",
+        "unit_cost": 46.27,
+        "current_stock": 22,
+        "base_demand": 253
+    },
+    "024": {
+        "name": "HoleSnipe Logo T-Shirt (XXL)",
+        "category": "Apparel",
+        "unit_cost": 29.61,
+        "current_stock": 142,
+        "base_demand": 268
+    },
+    "025": {
+        "name": "Get in the Hole! T-Shirt (S)",
+        "category": "Apparel",
+        "unit_cost": 43.01,
+        "current_stock": 218,
+        "base_demand": 181
+    },
+    "026": {
+        "name": "HoleSnipe Sticker Pack",
+        "category": "Stickers",
+        "unit_cost": 3.45,
+        "current_stock": 77,
+        "base_demand": 138
+    },
+    "027": {
+        "name": "HoleSnipe Logo Hoodie (XL)",
+        "category": "Apparel",
+        "unit_cost": 48.61,
+        "current_stock": 107,
+        "base_demand": 221
+    },
+    "028": {
+        "name": "HoleSnipe Logo Hoodie (S)",
+        "category": "Apparel",
+        "unit_cost": 53.07,
+        "current_stock": 228,
+        "base_demand": 155
+    },
+    "029": {
+        "name": "HoleSnipe Logo T-Shirt (S)",
+        "category": "Apparel",
+        "unit_cost": 40.01,
+        "current_stock": 175,
+        "base_demand": 199
+    },
+    "030": {
+        "name": "HoleSnipe Trucker Hat",
+        "category": "Hats",
+        "unit_cost": 23.96,
+        "current_stock": 177,
+        "base_demand": 284
+    },
+    "031": {
+        "name": "Get in the Hole! Hoodie (S)",
+        "category": "Apparel",
+        "unit_cost": 47.86,
+        "current_stock": 46,
+        "base_demand": 249
+    },
+    "032": {
+        "name": "HoleSnipe Logo Hoodie (XL)",
+        "category": "Apparel",
+        "unit_cost": 27.05,
+        "current_stock": 195,
+        "base_demand": 153
+    },
+    "033": {
+        "name": "HoleSnipe Logo T-Shirt (L)",
+        "category": "Apparel",
+        "unit_cost": 44.38,
+        "current_stock": 213,
+        "base_demand": 257
+    },
+    "034": {
+        "name": "HoleSnipe Logo Hoodie (XXL)",
+        "category": "Apparel",
+        "unit_cost": 46.76,
+        "current_stock": 181,
+        "base_demand": 125
+    },
+    "035": {
+        "name": "Recon Ridge Backpack (Vet-Owned)",
+        "category": "Vet-Partner",
+        "unit_cost": 22.03,
+        "current_stock": 232,
+        "base_demand": 265
+    },
+    "036": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - Midwatch Dark Roast",
+        "category": "Coffee",
+        "unit_cost": 13.72,
+        "current_stock": 35,
+        "base_demand": 129
+    },
+    "037": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - Midwatch Dark Roast",
+        "category": "Coffee",
+        "unit_cost": 15.02,
+        "current_stock": 133,
+        "base_demand": 87
+    },
+    "038": {
+        "name": "Get in the Hole! Hoodie (S)",
+        "category": "Apparel",
+        "unit_cost": 20.53,
+        "current_stock": 116,
+        "base_demand": 265
+    },
+    "039": {
+        "name": "Get in the Hole! Hoodie (L)",
+        "category": "Apparel",
+        "unit_cost": 52.4,
+        "current_stock": 91,
+        "base_demand": 179
+    },
+    "040": {
+        "name": "Recon Ridge Backpack (Vet-Owned)",
+        "category": "Vet-Partner",
+        "unit_cost": 49.15,
+        "current_stock": 27,
+        "base_demand": 44
+    },
+    "041": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - Bootcamp Decaf Roast",
+        "category": "Coffee",
+        "unit_cost": 12.99,
+        "current_stock": 186,
+        "base_demand": 88
+    },
+    "042": {
+        "name": "TSMG Logo Sticker",
+        "category": "Stickers",
+        "unit_cost": 5.62,
+        "current_stock": 49,
+        "base_demand": 280
+    },
+    "043": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - TSMG Special Blend Medium Roast",
+        "category": "Coffee",
+        "unit_cost": 10.25,
+        "current_stock": 132,
+        "base_demand": 116
+    },
+    "044": {
+        "name": "Get in the Hole! T-Shirt (S)",
+        "category": "Apparel",
+        "unit_cost": 37.54,
+        "current_stock": 244,
+        "base_demand": 73
+    },
+    "045": {
+        "name": "TSMG Logo Sticker",
+        "category": "Stickers",
+        "unit_cost": 6.06,
+        "current_stock": 41,
+        "base_demand": 166
+    },
+    "046": {
+        "name": "HoleSnipe Logo T-Shirt (S)",
+        "category": "Apparel",
+        "unit_cost": 25.76,
+        "current_stock": 235,
+        "base_demand": 187
+    },
+    "047": {
+        "name": "HoleSnipe Logo Hoodie (XXL)",
+        "category": "Apparel",
+        "unit_cost": 29.2,
+        "current_stock": 164,
+        "base_demand": 41
+    },
+    "048": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - Midwatch Dark Roast",
+        "category": "Coffee",
+        "unit_cost": 13.56,
+        "current_stock": 119,
+        "base_demand": 115
+    },
+    "049": {
+        "name": "TSMG Logo Sticker",
+        "category": "Stickers",
+        "unit_cost": 4.27,
+        "current_stock": 227,
+        "base_demand": 51
+    },
+    "050": {
+        "name": "TSMG Embroidered Hat",
+        "category": "Hats",
+        "unit_cost": 24.34,
+        "current_stock": 186,
+        "base_demand": 20
+    },
+    "051": {
+        "name": "HoleSnipe Logo Hoodie (XL)",
+        "category": "Apparel",
+        "unit_cost": 23.99,
+        "current_stock": 211,
+        "base_demand": 269
+    },
+    "052": {
+        "name": "HoleSnipe Logo Hoodie (S)",
+        "category": "Apparel",
+        "unit_cost": 55.0,
+        "current_stock": 186,
+        "base_demand": 117
+    },
+    "053": {
+        "name": "TSMG Logo Sticker",
+        "category": "Stickers",
+        "unit_cost": 2.81,
+        "current_stock": 196,
+        "base_demand": 117
+    },
+    "054": {
+        "name": "HoleSnipe Logo Hoodie (S)",
+        "category": "Apparel",
+        "unit_cost": 51.17,
+        "current_stock": 198,
+        "base_demand": 129
+    },
+    "055": {
+        "name": "HoleSnipe Logo Hoodie (XXL)",
+        "category": "Apparel",
+        "unit_cost": 41.09,
+        "current_stock": 78,
+        "base_demand": 27
+    },
+    "056": {
+        "name": "HoleSnipe Coffee Mug",
+        "category": "Mugs",
+        "unit_cost": 11.84,
+        "current_stock": 67,
+        "base_demand": 111
+    },
+    "057": {
+        "name": "HoleSnipe Logo T-Shirt (L)",
+        "category": "Apparel",
+        "unit_cost": 40.02,
+        "current_stock": 168,
+        "base_demand": 158
+    },
+    "058": {
+        "name": "Get in the Hole! Hoodie (L)",
+        "category": "Apparel",
+        "unit_cost": 49.94,
+        "current_stock": 37,
+        "base_demand": 116
+    },
+    "059": {
+        "name": "HoleSnipe Logo T-Shirt (S)",
+        "category": "Apparel",
+        "unit_cost": 54.77,
+        "current_stock": 33,
+        "base_demand": 89
+    },
+    "060": {
+        "name": "Get in the Hole! T-Shirt (XXL)",
+        "category": "Apparel",
+        "unit_cost": 43.37,
+        "current_stock": 70,
+        "base_demand": 42
+    },
+    "061": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - Midwatch Dark Roast",
+        "category": "Coffee",
+        "unit_cost": 17.28,
+        "current_stock": 195,
+        "base_demand": 54
+    },
+    "062": {
+        "name": "HoleSnipe Logo Hoodie (M)",
+        "category": "Apparel",
+        "unit_cost": 20.03,
+        "current_stock": 66,
+        "base_demand": 75
+    },
+    "063": {
+        "name": "HoleSnipe Logo Hoodie (M)",
+        "category": "Apparel",
+        "unit_cost": 31.93,
+        "current_stock": 104,
+        "base_demand": 119
+    },
+    "064": {
+        "name": "Get in the Hole! Hoodie (S)",
+        "category": "Apparel",
+        "unit_cost": 40.62,
+        "current_stock": 53,
+        "base_demand": 204
+    },
+    "065": {
+        "name": "Get in the Hole! T-Shirt (XXL)",
+        "category": "Apparel",
+        "unit_cost": 34.44,
+        "current_stock": 110,
+        "base_demand": 68
+    },
+    "066": {
+        "name": "Get in the Hole! Sticker",
+        "category": "Stickers",
+        "unit_cost": 2.07,
+        "current_stock": 85,
+        "base_demand": 269
+    },
+    "067": {
+        "name": "TSMG Embroidered Hat",
+        "category": "Hats",
+        "unit_cost": 27.53,
+        "current_stock": 140,
+        "base_demand": 245
+    },
+    "068": {
+        "name": "Get in the Hole! Hoodie (S)",
+        "category": "Apparel",
+        "unit_cost": 27.92,
+        "current_stock": 165,
+        "base_demand": 252
+    },
+    "069": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - Bootcamp Decaf Roast",
+        "category": "Coffee",
+        "unit_cost": 13.08,
+        "current_stock": 130,
+        "base_demand": 23
+    },
+    "070": {
+        "name": "TSMG Embroidered Hat",
+        "category": "Hats",
+        "unit_cost": 15.33,
+        "current_stock": 53,
+        "base_demand": 239
+    },
+    "071": {
+        "name": "Get in the Hole! Mug",
+        "category": "Mugs",
+        "unit_cost": 9.4,
+        "current_stock": 83,
+        "base_demand": 252
+    },
+    "072": {
+        "name": "TSMG Logo Sticker",
+        "category": "Stickers",
+        "unit_cost": 5.63,
+        "current_stock": 30,
+        "base_demand": 173
+    },
+    "073": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - Reveille Light Roast",
+        "category": "Coffee",
+        "unit_cost": 14.96,
+        "current_stock": 114,
+        "base_demand": 155
+    },
+    "074": {
+        "name": "HoleSnipe Logo T-Shirt (L)",
+        "category": "Apparel",
+        "unit_cost": 46.33,
+        "current_stock": 194,
+        "base_demand": 51
+    },
+    "075": {
+        "name": "Get in the Hole! T-Shirt (XXL)",
+        "category": "Apparel",
+        "unit_cost": 38.07,
+        "current_stock": 89,
+        "base_demand": 255
+    },
+    "076": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - Reveille Light Roast",
+        "category": "Coffee",
+        "unit_cost": 10.6,
+        "current_stock": 219,
+        "base_demand": 210
+    },
+    "077": {
+        "name": "Get in the Hole! T-Shirt (XL)",
+        "category": "Apparel",
+        "unit_cost": 45.2,
+        "current_stock": 51,
+        "base_demand": 167
+    },
+    "078": {
+        "name": "HoleSnipe Logo Hoodie (L)",
+        "category": "Apparel",
+        "unit_cost": 40.32,
+        "current_stock": 177,
+        "base_demand": 247
+    },
+    "079": {
+        "name": "Get in the Hole! T-Shirt (S)",
+        "category": "Apparel",
+        "unit_cost": 49.2,
+        "current_stock": 243,
+        "base_demand": 291
+    },
+    "080": {
+        "name": "Get in the Hole! Cap",
+        "category": "Hats",
+        "unit_cost": 16.09,
+        "current_stock": 141,
+        "base_demand": 62
+    },
+    "081": {
+        "name": "HoleSnipe Logo T-Shirt (M)",
+        "category": "Apparel",
+        "unit_cost": 41.22,
+        "current_stock": 232,
+        "base_demand": 267
+    },
+    "082": {
+        "name": "TSMG Ceramic Mug",
+        "category": "Mugs",
+        "unit_cost": 10.29,
+        "current_stock": 182,
+        "base_demand": 194
+    },
+    "083": {
+        "name": "HoleSnipe Logo Hoodie (L)",
+        "category": "Apparel",
+        "unit_cost": 28.74,
+        "current_stock": 249,
+        "base_demand": 280
+    },
+    "084": {
+        "name": "HoleSnipe Logo T-Shirt (XL)",
+        "category": "Apparel",
+        "unit_cost": 31.21,
+        "current_stock": 142,
+        "base_demand": 76
+    },
+    "085": {
+        "name": "HoleSnipe Logo Hoodie (XXL)",
+        "category": "Apparel",
+        "unit_cost": 53.82,
+        "current_stock": 47,
+        "base_demand": 124
+    },
+    "086": {
+        "name": "Get in the Hole! Cap",
+        "category": "Hats",
+        "unit_cost": 29.23,
+        "current_stock": 135,
+        "base_demand": 91
+    },
+    "087": {
+        "name": "Get in the Hole! Mug",
+        "category": "Mugs",
+        "unit_cost": 17.03,
+        "current_stock": 53,
+        "base_demand": 85
+    },
+    "088": {
+        "name": "TSMG Embroidered Hat",
+        "category": "Hats",
+        "unit_cost": 16.78,
+        "current_stock": 223,
+        "base_demand": 268
+    },
+    "089": {
+        "name": "TSMG Ceramic Mug",
+        "category": "Mugs",
+        "unit_cost": 14.74,
+        "current_stock": 162,
+        "base_demand": 29
+    },
+    "090": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - TSMG Special Blend Medium Roast",
+        "category": "Coffee",
+        "unit_cost": 12.9,
+        "current_stock": 103,
+        "base_demand": 153
+    },
+    "091": {
+        "name": "HoleSnipe Trucker Hat",
+        "category": "Hats",
+        "unit_cost": 18.53,
+        "current_stock": 46,
+        "base_demand": 151
+    },
+    "092": {
+        "name": "HoleSnipe Logo T-Shirt (L)",
+        "category": "Apparel",
+        "unit_cost": 29.54,
+        "current_stock": 242,
+        "base_demand": 38
+    },
+    "093": {
+        "name": "RuckUp Leather Wallet (Vet-Owned)",
+        "category": "Vet-Partner",
+        "unit_cost": 41.39,
+        "current_stock": 187,
+        "base_demand": 215
+    },
+    "094": {
+        "name": "Get in the Hole! Hoodie (S)",
+        "category": "Apparel",
+        "unit_cost": 30.71,
+        "current_stock": 12,
+        "base_demand": 89
+    },
+    "095": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - Bootcamp Decaf Roast",
+        "category": "Coffee",
+        "unit_cost": 10.21,
+        "current_stock": 54,
+        "base_demand": 116
+    },
+    "096": {
+        "name": "HoleSnipe Coffee - HoleSnipe Coffee - TSMG Special Blend Medium Roast",
+        "category": "Coffee",
+        "unit_cost": 17.38,
+        "current_stock": 95,
+        "base_demand": 104
+    },
+    "097": {
+        "name": "HoleSnipe Trucker Hat",
+        "category": "Hats",
+        "unit_cost": 29.77,
+        "current_stock": 18,
+        "base_demand": 275
+    },
+    "098": {
+        "name": "Get in the Hole! Hoodie (S)",
+        "category": "Apparel",
+        "unit_cost": 21.36,
+        "current_stock": 142,
+        "base_demand": 212
+    },
+    "099": {
+        "name": "Recon Ridge Backpack (Vet-Owned)",
+        "category": "Vet-Partner",
+        "unit_cost": 39.72,
+        "current_stock": 130,
+        "base_demand": 192
+    },
+    "100": {
+        "name": "Get in the Hole! Hoodie (XXL)",
+        "category": "Apparel",
+        "unit_cost": 38.67,
+        "current_stock": 119,
+        "base_demand": 263
+    }
+}
