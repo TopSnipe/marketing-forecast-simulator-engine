@@ -1,11 +1,9 @@
 # Marketing Forcast Simulation Engine  
-Version: v0.3.0  
-Environment: Development  
+Version: v1.0.0  
+Environment: Production
+Status: Completed Project  
 
 The Marketing Simulation Engine is a modular, src‑layout Python application that models a complete business workflow: generating random historical sales data, forecasting future demand using (MA, WMA, ES), and triggering marketing campaigns that produce inventory restock recommendations. The system supports both automated forecasting (using 3‑year synthetic sales history) and manual forecasting (user‑provided demand values for learning and testing).
-
-AI Assistance Statement:  
-This project was completed with limited use of AI. Throughout development, I used Microsoft Copilot as a learning resource outside of my coding environment, primarily for questions related to information systems architecture, debugging strategies, and conceptual explanations. I also conducted extensive personal research into src‑layout project structures, virtual environment setup, version control practices, and general professional coding standards. The conversational guidance from Copilot helped me better understand errors, refine my approach, and standardize my project structure. All design decisions and written code were created and verified by me. Within Visual Studio Code, I received standard inline editor suggestions for syntax or structure; these were reviewed, modified, or rejected based on my own judgment to ensure the final implementation met the assignment requirements and reflected my personal coding style.
 
 This project demonstrates:
 
@@ -70,7 +68,7 @@ marketing-simulation-engine/
 
 ---
 
-## Core Features (v0.3.0)
+## Core Features (v1.0.0)
 
 - Trigger Marketing Campaign  
 - Historical Sales Forecasting (automated 36‑month dataset)  
