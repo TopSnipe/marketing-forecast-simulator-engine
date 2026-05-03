@@ -96,5 +96,12 @@
         "restock_qty": 139,
         "total_cost": 1937.66,
         "demand_increase": 0.3
+    },
+    {
+        "merch_id": "033",
+        "name": "HoleSnipe Logo Hoodie (S)",
+        "restock_qty": 57,
+        "total_cost": 1793.79,
+        "demand_increase": 0.3
     }
 ]
